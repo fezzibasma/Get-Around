@@ -16,18 +16,16 @@ The API is based on a dataset of cars from Getaround.
 ### Main highlights are:
 
 - `Top 2 player` : globally in peer-to-peer carsharing 
-− `Operates` : in 950 cities across 8 countries, with 1.6m guests renting 66k cars from hosts Large total addressable market enabled by digital model
-− Serviceable addressable market of $155B Proven path to profitability 
-− Proven `profitability per transaction` : >50% trip contribution margin
-− Proven `profitability per city` : Top 20 cities in aggregate are EBITDA positive Fully funded business plan and highly attractive financial profile
-− Projected EBITDA breakeven with transaction proceeds Marketplace model is asset-light and powered by network effects
-− Strong `long-term defensibility` of carsharing model Differentiated tech of connected cars enables superior UX
-− Creates `uniquely seamless` host and renter value
+- `Operates` : in 950 cities across 8 countries, with 1.6m guests renting 66k cars from hosts Large total addressable market enabled by digital model
+-  Serviceable addressable market of $155B Proven path to profitability 
+-  Proven `profitability per transaction` : More than 50% trip contribution margin!
+-  Strong `long-term defensibility` of carsharing model Differentiated tech of connected cars enables superior UX
+-  Creates `uniquely seamless` host and renter value
 
 In this project, we are looking for price optimization for rental price per day !
 - `rental_price_per_day`: the rental price of the car (in $)
 
-## Sample rows
+## Sample cars
 * `/`: **GET** request that display random examples of the data.
 
 ## Search model
