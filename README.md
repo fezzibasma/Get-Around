@@ -33,15 +33,14 @@ git clone https://github.com/fezzibasma/Get-Around.git
 
         Build docker image and run locally :
 
-         - docker build . -t you_image_dashboard
-         - docker run -it -v "$(pwd):/home/app" -p 4000:80 -e PORT=80 you_image_dashboard
+         - docker run -it -v "$(pwd):/home/app" -p 4000:80 -e PORT=80 jedha/streamlit-sample-app
          
         Get your Heroku app ! :
 
-          - heroku create your_app_dashboard
-          - heroku container:push web -a your_app_dashboard
-          - heroku container:release web -a your_app_dashboard
-          - heroku open -a your_app_dashboard
+          - heroku create get-around-dashboard
+          - heroku container:push web -a get-around-dashboard
+          - heroku container:release web -a get-around-dashboard
+          - heroku open -a get-around-dashboard
           
           
           
@@ -55,15 +54,16 @@ git clone https://github.com/fezzibasma/Get-Around.git
 
         Build docker image and run locally :
 
-         - docker build . -t you_image_dashboard
-         - docker run -it -v "$(pwd):/home/app" -p 4000:4000 -e PORT=4000 you_image_api
-         
-        Get your Heroku app ! :
+         - docker build . -t apicoco
+         - docker run -it -v "$(pwd):/home/app" -p 4000:4000 -e PORT=4000 apicoco
+     
+    Get your Heroku app ! :
 
-          - heroku create your_app_api
-          - heroku container:push web -a your_app_api
-          - heroku container:release web -a your_app_api
-          - heroku open -a your_app_api
+         - heroku create getaround-pricing
+         - heroku container:push web -a getaround-pricing
+         - heroku container:release web -a getaround-pricing
+         - heroku open -a getaround-pricing
+
 
  
  
