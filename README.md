@@ -14,7 +14,7 @@ The purpose of this project is to :
 
 1 - Build Dashboard analysis with Streamlit and Heroku ! : [Web Dashboard Analysis](https://get-around-dashboard.herokuapp.com)
  
-2 - Pricing predictor using 'XGBR' & building API docs with FastAPI and Heroku ! : [Pricing Prediction & FastAPI ](https://get-around-pricing.herokuapp.com/docs#/)
+2 - Pricing predictor using 'XGBR' & building API docs with FastAPI and Heroku ! : [Pricing Prediction & FastAPI ](https://getaround-pricing.herokuapp.com/docs#/)
  
  
  To run this project :
