@@ -12,9 +12,9 @@ GetAround is the Airbnb for cars. You can rent cars from any person for a few ho
 
 The purpose of this project is to : 
 
- #####  Build Dashboard analysis with Streamlit and Heroku ! : [Web Dashboard Analysis](https://get-around-dashboard.herokuapp.com)
+1 - Build Dashboard analysis with Streamlit and Heroku ! : [Web Dashboard Analysis](https://get-around-dashboard.herokuapp.com)
  
- ##### Pricing predictor using 'XGBR' & building API with FastAPI and Heroku ! : [Pricing Prediction & FastAPI ](https://get-around-pricing.herokuapp.com/docs#/)
+2 - Pricing predictor using 'XGBR' & building API docs with FastAPI and Heroku ! : [Pricing Prediction & FastAPI ](https://get-around-pricing.herokuapp.com/docs#/)
  
  
  To run this project :
