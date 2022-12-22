@@ -2,7 +2,7 @@
 
 
 EMail : fezzibasma@gmail.com                                                                                                                               
-Vidyard Link : 'on-going'
+Vidyard Link : [#](https://share.vidyard.com/watch/uQeWTDGkn4wHgJGxjJYJbX?)
 
 # Get-Around 
 
